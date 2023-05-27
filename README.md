@@ -1,4 +1,4 @@
 - 🔭 Olá, meu nome é Israel
-- 🌱 Quero virar um Desenvolvedor Front-End
+- 🌱 Em desenvolvimento
 - 😄 No momento estou estudando HTML e CSS
 - 📫 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/israel-fran%C3%A7a-158a43270/)
